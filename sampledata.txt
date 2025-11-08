@@ -1,0 +1,54 @@
+{
+    "email": "iancarlo05@yahoo.com.ph",
+    "base_password": "ianispogi",
+    "variants": [
+      {
+        "variant": "IanisPogi_91*",
+        "model_strength": 0.75,
+        "damerau_levenshtein": 0.5384615384615384,
+        "cosine_similarity": 0.7333333333333333
+      },
+      {
+        "variant": "pOgiIs!34#",
+        "model_strength": 0.82,
+        "damerau_levenshtein": 0.19999999999999996,
+        "cosine_similarity": 0.48989794855663554
+      },
+      {
+        "variant": "GoiSpOi$67",
+        "model_strength": 0.89,
+        "damerau_levenshtein": 0.09999999999999998,
+        "cosine_similarity": 0.5962847939999439
+      },
+      {
+        "variant": "PogIanis@15",
+        "model_strength": 0.78,
+        "damerau_levenshtein": 0.2727272727272727,
+        "cosine_similarity": 0.6227991553292184
+      },
+      {
+        "variant": "IsPog!ian23",
+        "model_strength": 0.84,
+        "damerau_levenshtein": 0.09090909090909094,
+        "cosine_similarity": 0.6227991553292184
+      }
+    ]
+  },
+  "Ian",
+      "Carlo",
+      "Ispogi",
+      "Ian Carlo Ispogi",
+      "iancarlo05",
+      "ianispogi",
+      "1996",
+      "05",
+      "01",
+      "09171234567",
+      "34",
+      "Apolinario",
+      "Mabini",
+      "St",
+      "Quezon",
+      "City",
+      "Metro",
+      "Manila"
